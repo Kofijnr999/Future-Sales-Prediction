@@ -1,11 +1,5 @@
 **Future Sales Prediction using Regression Models**
-
-
-
 **Introduction**
-
-
-
 
 This repository contains the code and data for a project to predict future sales using various regression models. The project was conducted using a real-world dataset of historical sales data.
 
